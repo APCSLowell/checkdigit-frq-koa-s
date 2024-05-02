@@ -5,6 +5,7 @@ public class CheckDigit
    *  six, inclusive.  
    *          num >= 0  
    */  
+  
    public static int getCheck(int num) 
    {  
      /* to be implemented in part (a) */
